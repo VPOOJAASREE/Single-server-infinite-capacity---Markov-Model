@@ -1,5 +1,5 @@
-                                                                 NAME    : V. POOJAA SREE
-                                                                 REG. NO.: 212223040147
+                                                                NAME    : V. POOJAA SREE
+                                                                REG. NO.: 212223040147
 
 
 # EX-4:  SINGLE SERVER WITH INFINITE CAPACITY (M/M/1):(oo/FIFO)
